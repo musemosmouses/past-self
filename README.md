@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![Rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/musemosmouses/past-self/rank.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![Reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/musemosmouses/past-self/reward.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+
 # Two Lines to Your Past Self
 
 Entry for the make.fun bounty
@@ -23,4 +27,3 @@ working directory and never removes the output directory.
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
